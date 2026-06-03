@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+ML_azure
+.venv
+.vscode/
